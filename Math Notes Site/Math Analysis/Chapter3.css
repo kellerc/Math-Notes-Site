@@ -1,0 +1,188 @@
+#C3-1T{
+	
+  font-size: 50px;
+  color: Red;
+  border-style: solid;
+  padding: 10px 25px;
+  border-color: red;
+  border-radius: 10px;
+  border-width: 5px;
+  width: 35%;
+  background-color: black;
+  text-align: center;
+  text-decoration: none;
+	
+}
+
+#C3-1{
+  
+  font-size: 20px;
+  color: white;
+  border-style: solid;
+  padding: 25px 25px;
+  border-color: red;
+  border-radius: 10px;
+  border-width: 5px;
+  width: 95.7%;
+  background-color: black;
+  text-align: center;
+  text-decoration: none;
+  
+}
+
+#C3-2T{
+	
+  font-size: 50px;
+  color: Red;
+  border-style: solid;
+  padding: 10px 25px;
+  border-color: red;
+  border-radius: 10px;
+  border-width: 5px;
+  width: 35%;
+  background-color: black;
+  text-align: center;
+  text-decoration: none;
+	
+}
+
+#C3-2{
+  
+  font-size: 20px;
+  color: white;
+  border-style: solid;
+  padding: 25px 25px;
+  border-color: red;
+  border-radius: 10px;
+  border-width: 5px;
+  width: 95.7%;
+  background-color: black;
+  text-align: center;
+  text-decoration: none;
+  
+}
+
+A.BackToMathAnalysis:link, A.BackToMathAnalysis:visited {
+	
+	padding: 6px 25px;
+	Border-style: solid;
+	Border-width: 5px;
+	Border-radius: 10px;
+	Border-color: red;
+	Background-color: black;
+	color: red;
+	text-decoration: none;
+	
+}
+A.BackToMathAnalysis:hover {
+	
+	color: darkred;
+	border-color: darkred;
+	font-size:18px;
+	text-decoration: none;
+	
+}
+
+A.C3:link, A.C3:visited{
+  
+  font-size: 30px;
+  color: red;
+  border-style: solid;
+  padding: 6px 25px;
+  border-color: red;
+  border-radius: 10px;
+  border-width: 5px;
+  width:40%;
+  background-color: black;
+  text-decoration: none;
+  
+  
+}
+
+A.C3:hover{
+  
+  font-size: 32px;
+  color: darkred;
+  border-color: darkred;
+  text-decoration: none;
+  
+}
+
+A.C3-1T:link, A.C3-1T:visited {
+	
+	padding: 6px 25px;
+	Border-style: solid;
+	Border-width: 5px;
+	Border-radius: 10px;
+	Border-color: red;
+	Background-color: black;
+	color: red;
+	text-decoration: none;
+	
+}
+
+A.C3-1T:hover {
+	
+	color: darkred;
+	border-color: darkred;
+	font-size:18px;
+	text-decoration: none;
+	
+}
+
+A.C3-2T:link, A.C3-2T:visited {
+	
+	padding: 6px 25px;
+	Border-style: solid;
+	Border-width: 5px;
+	Border-radius: 10px;
+	Border-color: red;
+	Background-color: black;
+	color: red;
+	text-decoration: none;
+	
+}
+
+A.C3-2T:hover {
+	
+	color: darkred;
+	border-color: darkred;
+	font-size:18px;
+	text-decoration: none;
+	
+}
+
+A.top:link, A.top:visited{
+	
+	padding: 6px 25px;
+	Border-style: solid;
+	Border-width: 5px;
+	Border-radius: 10px;
+	Border-color: red;
+	Background-color: black;
+	color: red;
+	text-decoration: none;
+	
+}
+
+A.top:hover{
+	
+	color: darkred;
+	border-color: darkred;
+	font-size:18px;
+	text-decoration: none;
+	
+}
+
+.top{
+		
+	text-align: center;
+	
+}
+
+body {
+  
+  background-size:cover;
+  background: url("HomePageBackground.jpg") no-repeat center center fixed;
+  
+}
