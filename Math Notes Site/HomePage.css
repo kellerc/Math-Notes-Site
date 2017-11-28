@@ -1,0 +1,31 @@
+A.MathAnalysis:link, A.MathAnalysis:visited{
+  
+  font-size: 30px;
+  color: red;
+  border-style: solid;
+  padding: 6px 25px;
+  border-color: red;
+  border-radius: 10px;
+  border-width: 5px;
+  width:40%;
+  background-color: black;
+  text-decoration: none;
+  
+  
+}
+
+A.MathAnalysis:hover{
+  
+  font-size: 32px;
+  color: darkred;
+  border-color: darkred;
+  text-decoration: none;
+  
+}
+
+body {
+  
+  background-size:cover;
+  background: url("HomePageBackground.jpg") no-repeat center center fixed;
+  
+}
