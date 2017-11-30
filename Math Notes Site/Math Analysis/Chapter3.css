@@ -1,4 +1,4 @@
-#C3T{
+#C3-1T{
 	
   font-size: 50px;
   color: Red;
@@ -12,6 +12,38 @@
   text-align: center;
   text-decoration: none;
 	
+}
+
+#C3-2T{
+  
+  font-size: 50px;
+  color: Red;
+  border-style: solid;
+  padding: 10px 25px;
+  border-color: red;
+  border-radius: 10px;
+  border-width: 5px;
+  width: 35%;
+  background-color: black;
+  text-align: center;
+  text-decoration: none;
+  
+}
+
+#C3-3T{
+  
+  font-size: 50px;
+  color: Red;
+  border-style: solid;
+  padding: 10px 25px;
+  border-color: red;
+  border-radius: 10px;
+  border-width: 5px;
+  width: 35%;
+  background-color: black;
+  text-align: center;
+  text-decoration: none;
+  
 }
 
 #C3{
