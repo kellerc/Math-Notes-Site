@@ -1,0 +1,28 @@
+A.BC3:link, A.BC3:visited {
+	
+	padding: 6px 25px;
+	Border-style: solid;
+	Border-width: 5px;
+	Border-radius: 10px;
+	Border-color: red;
+	Background-color: black;
+	color: red;
+	text-decoration: none;
+	
+}
+
+A.BC3:hover {
+	
+	color: darkred;
+	border-color: darkred;
+	font-size:18px;
+	text-decoration: none;
+	
+}
+
+body {
+  
+  background-size:cover;
+  background: url("HomePageBackground.jpg") no-repeat center center fixed;
+  
+}
