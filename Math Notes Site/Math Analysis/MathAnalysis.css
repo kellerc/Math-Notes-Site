@@ -19,7 +19,7 @@ A.BackToHome:hover {
 	
 }
 
-A.C3:link, A.C3:visited{
+A.Chapters:link, A.Chapters:visited{
   
   font-size: 30px;
   color: red;
@@ -35,7 +35,7 @@ A.C3:link, A.C3:visited{
   
 }
 
-A.C3:hover{
+A.Chapters:hover{
   
   font-size: 32px;
   color: darkred;
