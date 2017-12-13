@@ -62,6 +62,22 @@
   
 }
 
+#C3-5T{
+  
+  font-size: 50px;
+  color: Red;
+  border-style: solid;
+  padding: 10px 25px;
+  border-color: red;
+  border-radius: 10px;
+  border-width: 5px;
+  width: 35%;
+  background-color: black;
+  text-align: center;
+  text-decoration: none;
+  
+}
+
 #C3{
   
   font-size: 20px;
